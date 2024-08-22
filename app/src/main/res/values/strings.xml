@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyRestaurant</string>
+    <string name="rest_name">EL ITALIANO</string>
+    <string name="app_menu">Explorar el menú</string>
+    <string name="app_pedido">Realizar un Pedido</string>
+    <string name="app_reserva">Reservar una Mesa</string>
+    <string name="app_info">Conocer más Sobre el Sitio</string>
+    <string name="app_calificar">Calificarnos</string>
+    <string name="app_Bienvenida">Bienvenid@.¿Que desea hacer?</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    //NOMBRE
+    <string name="Entrada1">Sopas</string>>
+    <string name="Entrada2">Empanadas</string>>
+
+    <string name="Bebida1">Cafe</string>>
+    <string name="Bebida2">Vino</string>>
+    <string name="Bebida3">Limonada</string>>
+
+    //INGREDIENTE
+    <string name="ING_Entrada1">frijoles, consome, sancocho</string>>
+    <string name="ING_Entrada2">Carne, pollo</string>>
+
+    <string name="ING_Bebida1">Cafe a Eleccion (Suave, fuerte, extrafuerte) en leche o en agua</string>
+    >
+    <string name="ING_Bebida2">Vino Rosado, Blanco, Tinto</string>>
+    <string name="ING_Bebida3">Limonada de Coco, Cereza, Mango, Lima</string>>
+
+    //PRECIO
+    <string name="PRECIO_Entrada1">$ 5.000</string>>
+    <string name="PRECIO_Entrada2">$ 20.000</string>>
+    <string name="PRECIO_Entrada3">$ 8.000</string>>
+
+    <string name="PRECIO_Bebida1">$ 5.000</string>>
+    <string name="PRECIO_Bebida2">$ 20.000</string>>
+    <string name="PRECIO_Bebida3">$ 8.000</string>>
+
+</resources>
